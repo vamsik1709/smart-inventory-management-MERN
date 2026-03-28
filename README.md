@@ -48,16 +48,16 @@ npm start
 ## 📸 Screenshots
 
 ### 📋 Get Products
-<img src="image/Get.png" width="600"/>
+<img src="images/Get.png" width="600"/>
 
 ### ➕ Add Product (Post)
-<img src="image/Post.png" width="600"/>
+<img src="images/Post.png" width="600"/>
 
 ### ✏️ Update Product (Put)
-<img src="image/Put.png" width="600"/>
+<img src="images/Put.png" width="600"/>
 
 ### ❌ Delete Product
-<img src="image/Delete.png" width="600"/>
+<img src="images/Delete.png" width="600"/>
 
 
 💡 My Contributions
