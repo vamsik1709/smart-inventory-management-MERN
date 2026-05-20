@@ -60,13 +60,6 @@ npm start
 <img src="images/Delete.png" width="600"/>
 
 
-💡 My Contributions
-Refactored project structure for better readability
-Improved API handling and error management
-Enhanced UI for better user experience
-Optimized CRUD operations
-
-
 📌 Use Case
 This system helps businesses:
 Manage inventory efficiently
